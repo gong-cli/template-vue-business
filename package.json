@@ -1,5 +1,5 @@
 {
-  "name": "anov-twin-vue3",
+  "name": "<%= data.projectName %>",
   "private": true,
   "version": "0.0.0",
   "type": "module",
